@@ -3,5 +3,5 @@ matplotlib
 seaborn
 urlextract
 wordcloud
-pandas==1.5.6
+pandas==1.5.3
 emoji==1.7.0
